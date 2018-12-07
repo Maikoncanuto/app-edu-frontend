@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.mk-button-login{
+    color: black;
+    background-color: white;
+    border-color: red;
+
+    
+}
+
+.mk-button-login:hover{
+    color: white;
+    background-color: red;
+    border-color: white;
+}
